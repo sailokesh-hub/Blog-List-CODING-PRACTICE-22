@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.heading {
+  font-size: 20px;
+}
